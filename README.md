@@ -45,3 +45,16 @@ If I read 30 minutes per day and assume a book has 300 pages on average, I can c
 Then, for one year, I can read at least 35 books while leaving 15 days for resting and reflections. 
 
 ## 2017年我想读书
+1. Homo Deus
+2. Sapiens: A Brief History of Mankind
+3. Causal Models
+4. Applied Linear Regression Model
+5. All of Statistics: A Concise Course in Statistical Inference
+6. An Introduction to the Science of Statistics: From Theory to Implementation
+7. Computer Systems - A Programmers Perspective
+8. Code Complete
+9. Clean Code
+10. The Pragmatic Programmer 
+11. Web Database Applications with PHP & MySQL
+12. Lost in translation
+13. Winnie the Pooh
